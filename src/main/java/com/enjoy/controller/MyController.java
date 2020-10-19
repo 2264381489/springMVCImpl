@@ -6,10 +6,8 @@ import com.enjoy.annotion.RequestMapping;
 import com.enjoy.annotion.RequestParam;
 import com.enjoy.service.MyService;
 /**
- *
- * 准备测试计算机分离技术
- *
- */
+ * 准备放置前后端分离技术
+  */
 @EnjoyController("MyController")
 @RequestMapping("/james")
 public class MyController {
